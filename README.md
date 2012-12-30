@@ -1,4 +1,1 @@
-DS_ALGO_CODES
-=============
-
-DS_ALGO_CODES
+This repo is a result of my efforts to learn DS and Algo in detail.
